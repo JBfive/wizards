@@ -1,6 +1,6 @@
 # GRIZZLED WIZZARDS
 
-###### Node.js, Socket.io, Redux, and Angular based multiplayer card battle game made for dualing wizards to decide who will control the realm
+###### Node.js, Socket.io, Redux, and Angular based multiplayer card battle game made for dueling wizards to decide who will control the realm
 
 ###### Project source can be downloaded from [here](https://github.com/alexanderhunter80/wizards.git)
 
